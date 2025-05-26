@@ -48,25 +48,39 @@ I'm a hands-on engineer who loves building at the intersection of **artificial i
 ## 🧰 Tech Toolbox
 
 
+<!-- Tech Toolbox (HTML only, all in one line) -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,huggingface,opencv,scikit-learn,python,c,java,sql,docker,git,vscode,jupyter,pycharm,html,css,bootstrap,linux,windows" alt="AI/ML | Programming | Dev Tools | Web | OS" />
-  <img src="https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white" alt="ROS2" />
-  <img src="https://img.shields.io/badge/URDF-000000?style=flat-square&logo=ros&logoColor=white" alt="URDF" />
-  <img src="https://img.shields.io/badge/Gazebo-7952B3?style=flat-square&logo=Gazebo&logoColor=white" alt="Gazebo" />
-  <img src="https://img.shields.io/badge/Siemens%20TIA%20Portal-009999?style=flat-square&logo=siemens&logoColor=white" alt="TIA Portal" />
-  <img src="https://img.shields.io/badge/B%26R%20Automation%20Studio-F7941E?style=flat-square&logoColor=white" alt="B&R Automation Studio" />
-  <img src="https://img.shields.io/badge/Ladder%20Logic-37474F?style=flat-square" alt="Ladder Logic" />
-  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white" alt="MATLAB" />
-  <img src="https://img.shields.io/badge/LabVIEW-FFDB00?style=flat-square&logo=National-Instruments&logoColor=black" alt="LabVIEW" />
-  <img src="https://img.shields.io/badge/KiCad-314CB6?style=flat-square&logo=kicad&logoColor=white" alt="KiCad" />
+  <!-- AI/ML -->
+  <img src="https://skillicons.dev/icons?i=pytorch,opencv" height="32" alt="AI/ML" />
+  <!-- Robotics -->
+  <img src="https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white" height="32" alt="ROS2" />
+  <img src="https://img.shields.io/badge/URDF-000000?style=flat-square&logo=ros&logoColor=white" height="32" alt="URDF" />
+  <img src="https://img.shields.io/badge/Gazebo-7952B3?style=flat-square&logo=Gazebo&logoColor=white" height="32" alt="Gazebo" />
+  <!-- Programming -->
+  <img src="https://skillicons.dev/icons?i=python,c,java" height="32" alt="Programming" />
+  <!-- Automation & PLC -->
+  <img src="https://img.shields.io/badge/Siemens%20TIA%20Portal-009999?style=flat-square&logo=siemens&logoColor=white" height="32" alt="TIA Portal" />
+  <img src="https://img.shields.io/badge/B%26R%20Automation%20Studio-F7941E?style=flat-square&logoColor=white" height="32" alt="B&R Automation Studio" />
+  <img src="https://img.shields.io/badge/Ladder%20Logic-37474F?style=flat-square" height="32" alt="Ladder Logic" />
+  <!-- Dev Tools -->
+  <img src="https://skillicons.dev/icons?i=docker,git,vscode,pycharm" height="32" alt="Dev Tools" />
+  <!-- Software Tools -->
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white" height="32" alt="MATLAB" />
+  <img src="https://img.shields.io/badge/LabVIEW-FFDB00?style=flat-square&logo=National-Instruments&logoColor=black" height="32" alt="LabVIEW" />
+  <img src="https://img.shields.io/badge/KiCad-314CB6?style=flat-square&logo=kicad&logoColor=white" height="32" alt="KiCad" />
+  <!-- Web -->
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap" height="32" alt="Web Tech" />
+  <!-- OS -->
+  <img src="https://skillicons.dev/icons?i=linux,windows" height="32" alt="Operating Systems" />
 </p>
 
 
-- **AI & ML:** PyTorch, TensorFlow, Hugging Face, scikit-learn, OpenCV  
+
+- **AI & ML:** PyTorch, Hugging face, OpenCV  
 - **Robotics:** ROS2, URDF, Gazebo, Kinova SDK, Universal Robots SDK  
 - **Programming:** Python, C, Java, SQL, Ladder Logic  
 - **Automation:** Siemens TIA Portal, B&R Automation Studio  
-- **Dev Tools:** Docker, Git, Jupyter Notebook, VS Code, PyCharm  
+- **Dev Tools:** Docker, Git, VS Code, PyCharm,  Jupyter Notebook
 - **Software Tools:** MATLAB, LabVIEW, KiCad, Microsoft Office  
 - **Web Technologies:** HTML5, CSS3, Bootstrap 5  
 - **Operating Systems:** Linux, Windows  
