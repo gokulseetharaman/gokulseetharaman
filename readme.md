@@ -36,7 +36,7 @@ I'm a hands-on engineer who loves building at the intersection of **artificial i
 - **Virtual Drawing Board with Hand Tracking**  
   _Draw in the air with finger gestures using real-time hand tracking._  
   **Tech:** OpenCV, MediaPipe, PyTorch  
-  [GitHub](https://github.com/gokulseetharaman/Virtual-drawing)
+  [GitHub](https://github.com/gokulseetharaman/Virtual-Drawing-board-Opencv-Pytorch)
 
 - **Small Language Model for Edge Devices**  
   _Fine-tuned NLP model for resource-constrained edge deployment._  
