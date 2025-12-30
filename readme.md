@@ -118,8 +118,8 @@ I am actively seeking **entry-level, internships, or research positions** in rob
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gokulseetharaman&show_icons=true&theme=react&hide_border=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokulseetharaman&layout=compact&theme=react&hide_border=true&exclude_repo=IBM-AI-capstone-Project" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=gokulseetharaman&show_icons=true&theme=react&hide_border=true&cache_seconds=86400" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokulseetharaman&layout=compact&theme=react&hide_border=true&cache_seconds=86400" height="180"/>
 </p>
 
 <p align="center">
@@ -131,7 +131,7 @@ I am actively seeking **entry-level, internships, or research positions** in rob
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gokulseetharaman&theme=onestar&no-frame=true&margin-w=6&margin-h=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=gokulseetharaman&theme=flat&no-frame=true&margin-w=6&cache_seconds=86400" />
 </p>
 
 ---
