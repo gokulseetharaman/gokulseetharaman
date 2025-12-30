@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=0A4B7A&center=true&width=500&lines=Hi%2C+I'm+Gokul+Seetharaman!;AI+%26+Robotics+Engineer;Open+to+Collaborations+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=0A4B7A&center=true&width=650&lines=Hi%2C+I'm+Gokul+Seetharaman!;Robotics+%26+Computer+Vision+Engineer;ROS2+%7C+AI%2FML+%7C+Python+%7C+Vision-Based+Automation" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -14,11 +14,19 @@
 
 ## 🚀 About Me
 
-I'm a hands-on engineer who loves building at the intersection of **artificial intelligence, robotics, and automation**. With a strong foundation in Electrical and Electronics Engineering, and currently pursuing my MSc at Aston University, I thrive on turning real-world problems into working intelligent systems.
+I am a Robotics & Computer Vision Engineer with hands-on experience building **ROS2-based robotic systems**, 
+**computer vision pipelines**, and **LLM-driven automation workflows**.
 
-- 🤖 Specializing in: **Deep Learning, Computer Vision, Robotics (ROS2), Embedded Automation**
-- 🧑‍💻 I build both the "brain" (AI/ML) and "body" (hardware/robotics) of intelligent systems.
-- 🌎 Open source enthusiast, always ready for exciting collaborations.
+My work focuses on connecting perception (vision & AI) with action (robot control), building real-time, deployable systems.
+
+**Core strengths:**
+- Vision-driven robotics (YOLO, ArUco, OpenCV)
+- ROS2 integration, control, and safety logic
+- AI/ML model training and deployment (PyTorch, Docker)
+- Automation and PLC-based control systems
+
+I am actively seeking **entry-level, internships, or research positions** in robotics, computer vision, or AI-driven automation.
+
 
 ---
 
@@ -30,8 +38,9 @@ I'm a hands-on engineer who loves building at the intersection of **artificial i
   [GitHub](https://github.com/gokulseetharaman/cnn-waste-classification-opencv-pytorch) | [Hugging Face](https://huggingface.co/itsgokul02/cnn-waste-classification-opencv-pytorch)
 
 - **AI-Driven Robotic System with LLM + ROS2 (MSc Dissertation)**  
-  _Voice-controlled robotics using custom LLMs, real-time execution & Asimov’s Laws for safety._  
+  Designed a **voice-controlled robotic system** where a fine-tuned LLM converts natural language commands into safe ROS2 actions, enforcing constraints inspired by **Asimov’s Laws**.  
   **Tech:** PyTorch, Hugging Face, ROS2, Python
+  [Github]([url](https://github.com/gokulseetharaman/Multi-Robot-ArUco-Detection-LLM-Control-System))
 
 - **Virtual Drawing Board with Hand Tracking**  
   _Draw in the air with finger gestures using real-time hand tracking._  
